@@ -1,0 +1,104 @@
+{
+    "locations": [
+        {
+            "id": 0,
+            "name": "Acme Fresh Start Housing",
+            "city": "Chennai",
+            "state": "TN",
+            "photo": "/assets/vkk.jpg",
+            "availableUnits": 4,
+            "wifi": true,
+            "laundry": true
+        },
+        {
+            "id": 1,
+            "name": "A113 Transitional Housing",
+            "city": "Ooty",
+            "state": "TN",
+            "photo": "/assets/vkk.jpg",
+            "availableUnits": 4,
+            "wifi": true,
+            "laundry": false
+        },
+        {
+            "id": 2,
+            "name": "Warm Beds Housing Support",
+            "city": "Coimbatore",
+            "state": "TN",
+            "photo": "/assets/vkk.jpg",
+            "availableUnits": 4,
+            "wifi": true,
+            "laundry": true
+        },
+        {
+            "id": 3,
+            "name": "Holidy Inn",
+            "city": "Ooty",
+            "state": "TN",
+            "photo": "/assets/vkk.jpg",
+            "availableUnits": 4,
+            "wifi": true,
+            "laundry": true
+        },
+        {
+            "id": 4,
+            "name": "Soulful Houses",
+            "city": "Trivandram",
+            "state": "KA",
+            "photo": "/assets/vkk.jpg",
+            "availableUnits": 4,
+            "wifi": true,
+            "laundry": true
+        },
+        {
+            "id": 5,
+            "name": "Peaky Blinders",
+            "city": "Salem",
+            "state": "TN",
+            "photo": "/assets/vkk.jpg",
+            "availableUnits": 4,
+            "wifi": false,
+            "laundry": true
+        },
+        {
+            "id": 6,
+            "name": "Welcome Home Apartments",
+            "city": "Kochi",
+            "state": "KL",
+            "photo": "/assets/vkk.jpg",
+            "availableUnits": 4,
+            "wifi": false,
+            "laundry": false
+        },
+        {
+            "id": 7,
+            "name": "Hopeful Housing Solutions",
+            "city": "Mysore",
+            "state": "KA",
+            "photo": "/assets/vkk.jpg",
+            "availableUnits": 4,
+            "wifi": true,
+            "laundry": true
+        },
+        {
+            "id": 8,
+            "name": "Seriously Safe Towns",
+            "city": "Bangalore",
+            "state": "KA",
+            "photo": "/assets/vkk.jpg",
+            "availableUnits": 4,
+            "wifi": true,
+            "laundry": true
+        },
+        {
+            "id": 9,
+            "name": "Capital Safe Towns",
+            "city": "Madurai",
+            "state": "TN",
+            "photo": "/assets/vkk.jpg",
+            "availableUnits": 4,
+            "wifi": true,
+            "laundry": true
+        }
+    ]
+}

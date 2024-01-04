@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { RouterModule, RouterOutlet } from '@angular/router';
+import { RouterModule, RouterOutlet,Router } from '@angular/router';
 import { FormsModule } from '@angular/forms';
 import { HomeComponent } from './home/home.component';
 
@@ -15,4 +15,8 @@ import { HomeComponent } from './home/home.component';
 export class AppComponent {
   title = 'Book Homes';
   name = '';
+  constructor(private router:Router){}
+  goToHomePage(){
+    this.router.navigate(['/']);
+  }
 }
